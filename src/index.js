@@ -76,12 +76,6 @@ function addition(s){
  return result;
 }
 
-
-
-
-
-
-
 module.exports = function multiply(first, second) {
 
   if(first.length < second.length) {
